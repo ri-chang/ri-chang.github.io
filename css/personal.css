@@ -1,0 +1,12 @@
+html.page-home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: https://th.bing.com/th/id/R.da8b107858ccde555a4480057973af47?rik=ob8M%2fKaaYT8CnA&riu=http%3a%2f%2fwww.desktx.com%2fd%2ffile%2fwallpaper%2fanimals%2f20180704%2f023124044748e8d0247ad72a67beb802.jpg&ehk=O3B3njt56S9%2fjsdY4mWJIWmhLZ%2fzyCRE84UiYbz2%2f2w%3d&risl=&pid=ImgRaw&r=0(/img/home/Bg.jpg);
+  background-color: transparent;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
